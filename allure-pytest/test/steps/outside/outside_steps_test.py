@@ -4,7 +4,6 @@
 """
 
 from . import init_step
-init_step()
 
 
 def test_step_from_init_py():
