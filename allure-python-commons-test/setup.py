@@ -19,7 +19,7 @@ def main():
         author_email="sseliverstov@qameta.io",
         license="Apache-2.0",
         packages=["allure_commons_test"],
-        package_dir={"allure_commons_test": "src"},
+        #package_dir={"allure_commons_test": "src"},
         install_requires=install_requires
     )
 
